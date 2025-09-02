@@ -6,7 +6,10 @@ Official PyTorch implementation of the paper Decoupling Human and Camera Motion 
 
 <img src="./teaser.png">
 
+<!--
 ##  [<img src="https://i.imgur.com/QCojoJk.png" width="40"> You can run SLAHMR in Google Colab](https://colab.research.google.com/drive/1knzxW3XuxiaBH6hcwx01cs6DfA4azv5E?usp=sharing)
+-->
+##  [<img src="https://i.imgur.com/QCojoJk.png" width="40"> You can run SLAHMR in Google Colab (conda supported ver)](https://colab.research.google.com/drive/1knzxW3XuxiaBH6hcwx01cs6DfA4azv5E?usp=sharing)
 
 ## News
 
